@@ -124,4 +124,4 @@ The automation successfully validates the quiz application workflow and result a
 * Any CDP warnings during execution do not affect test results.
 * This repository contains only the automation code (quiz UI code is separate).
 
-`
+
