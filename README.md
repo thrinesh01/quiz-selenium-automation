@@ -4,7 +4,7 @@ This repository contains the **Selenium automation test code** for the **Dynamic
 
 The automation validates the end-to-end functionality of the quiz application, including quiz start, question navigation, timer behavior, and result analysis.
 
----
+
 
 ## 🛠️ Tools & Technologies Used
 
@@ -15,7 +15,7 @@ The automation validates the end-to-end functionality of the quiz application, i
 - **Browser:** Google Chrome  
 - **Operating System:** Windows  
 
----
+
 
 ## 📌 Application Under Test
 
@@ -31,7 +31,6 @@ The automation validates the end-to-end functionality of the quiz application, i
 - Automatic answer selection
 - Result analysis display (correct, incorrect, performance)
 
----
 
 ## 🧪 Test Scenario Automated
 
@@ -45,7 +44,7 @@ The following test scenario is automated using Selenium WebDriver:
 6. Navigate to the result page  
 7. Verify the result analysis details  
 
----
+
 
 ## ▶️ How to Run the Automation Test
 
@@ -59,7 +58,7 @@ The following test scenario is automated using Selenium WebDriver:
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/quiz-selenium-automation.git
-````
+
 
 2. Open the project in **IntelliJ IDEA**
 3. Allow Maven dependencies to download
