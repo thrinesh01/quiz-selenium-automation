@@ -65,9 +65,9 @@ The following test scenario is automated using Selenium WebDriver:
 3. Allow Maven dependencies to download
 4. Navigate to:
 
-   ```
+
    src/test/java/quiz/automation/QuizTest.java
-   ```
+ 
 5. Update the quiz application file path inside the test:
 
    ```java
@@ -75,7 +75,7 @@ The following test scenario is automated using Selenium WebDriver:
    ```
 6. Right-click on `QuizTest.java` → **Run**
 
----
+
 
 ## 📊 Test Output
 
@@ -94,7 +94,7 @@ During execution:
 
 ## 📁 Project Structure
 
-```
+
 quiz-selenium-automation
 │
 ├── pom.xml
@@ -104,27 +104,20 @@ quiz-selenium-automation
             └── quiz
                 └── automation
                     └── QuizTest.java
-```
-
----
 
 
-
----
 
 ## ✅ Test Result
 
 **Status:** PASS
 The automation successfully validates the quiz application workflow and result analysis.
 
----
 
 ## 👤 Author
 
 **Name:** Thrinesh
 **Project Type:** Assignment
 
----
 
 ## 📎 Notes
 
